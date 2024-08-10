@@ -33,9 +33,9 @@ Example:
 
 morse-code-encryption-decryption
 
-1.├── morse_code.csv ---------->  CSV file containing Morse code mappings
-2.├── MorseCode.py   ---------->  Main application file
-3.└── README.md      ---------->  Project documentation (this file)
+*1.├── morse_code.csv ---------->  CSV file containing Morse code mappings
+*2.├── MorseCode.py   ---------->  Main application file
+*3.└── README.md      ---------->  Project documentation (this file)
 
 
 Contribution
