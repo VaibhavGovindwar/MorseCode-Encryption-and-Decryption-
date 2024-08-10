@@ -10,10 +10,10 @@ CSV-based Morse Code Dictionary: The Morse code dictionary is loaded from a CSV 
 Simple and Intuitive GUI: Built with Tkinter, the application provides a user-friendly interface with a clear layout.
 
 # Prepare the CSV File
-Could you make sure that you have a morse_code.csv file with two columns: Character and MorseCode?
+Could you make sure that you have a morse_code.csv file with two columns: Character and MorseCode
 
 Example:
-![image](https://github.com/user-attachments/assets/eced2d14-e838-471f-82cb-7b97fa6d0c13)
+[image](https://github.com/user-attachments/assets/eced2d14-e838-471f-82cb-7b97fa6d0c13)
 
 
 # Usage
@@ -32,9 +32,9 @@ Example:
 
 morse-code-encryption-decryption
 
-> ├── morse_code.csv ---------->  CSV file containing Morse code mappings
-> ├── MorseCode.py   ---------->  Main application file
-> └── README.md      ---------->  Project documentation (this file)
+1.├── morse_code.csv ---------->  CSV file containing Morse code mappings
+2.├── MorseCode.py   ---------->  Main application file
+3.└── README.md      ---------->  Project documentation (this file)
 
 
 Contribution
