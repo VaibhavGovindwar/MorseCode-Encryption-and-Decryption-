@@ -29,14 +29,14 @@ Example:
 3. Exit:
 > Click the "Exit" button to close the application.
 
-# Project Structure
-
-morse-code-encryption-decryption
-
-*1.├── morse_code.csv ---------->  CSV file containing Morse code mappings
-*2.├── MorseCode.py   ---------->  Main application file
-*3.└── README.md      ---------->  Project documentation (this file)
+# ScreenShots of the UI and Output
 
 
-Contribution
+![image](https://github.com/user-attachments/assets/c6249555-efc7-4f33-bf16-53a4b64743be)
+
+
+![image](https://github.com/user-attachments/assets/8a97eb2c-d700-4256-a6e2-c522e5d8f462)
+
+
+# Contribution
 Contributions are welcome! Please feel free to fork the repository and submit a pull request if you have any ideas, suggestions, or issues.
