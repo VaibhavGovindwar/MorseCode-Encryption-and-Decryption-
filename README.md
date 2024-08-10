@@ -13,7 +13,7 @@ Simple and Intuitive GUI: Built with Tkinter, the application provides a user-fr
 Could you make sure that you have a morse_code.csv file with two columns: Character and MorseCode?
 
 Example:
-
+_____________________________
 |  Character  |  	MorseCode |
 ----------------------------|
 |    A    	  |      .-     |
