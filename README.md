@@ -22,7 +22,8 @@ _____________________________
 -----------------------------
 |     C       |    -.-.     |
 -----------------------------
-|    ...      |	   ...      |  
+|    ...      |	   ...      |
+_____________________________
 
 # Usage
 1. Encryption:
@@ -39,10 +40,10 @@ _____________________________
 # Project Structure
 
 morse-code-encryption-decryption
-│
-├── morse_code.csv ---------->  CSV file containing Morse code mappings
-├── MorseCode.py   ---------->  Main application file
-└── README.md      ---------->  Project documentation (this file)
+
+> ├── morse_code.csv ---------->  CSV file containing Morse code mappings
+> ├── MorseCode.py   ---------->  Main application file
+> └── README.md      ---------->  Project documentation (this file)
 
 
 Contribution
