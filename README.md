@@ -15,10 +15,10 @@ Could you make sure that you have a morse_code.csv file with two columns: Charac
 Example:
 
 Character	MorseCode
-A	.-
-B	-...
-C -.-.
-...	...    
+|  A	 |  .-   |
+|  B	 |  -... |
+|  C   |  -.-. |
+| ...  |	...  |  
 
 # Usage
 1. Encryption:
