@@ -10,21 +10,11 @@ CSV-based Morse Code Dictionary: The Morse code dictionary is loaded from a CSV 
 Simple and Intuitive GUI: Built with Tkinter, the application provides a user-friendly interface with a clear layout.
 
 # Prepare the CSV File
-Could you make sure that you have a morse_code.csv file with two columns: Character and MorseCode?![image](https://github.com/user-attachments/assets/eced2d14-e838-471f-82cb-7b97fa6d0c13)
-
+Could you make sure that you have a morse_code.csv file with two columns: Character and MorseCode?
 
 Example:
-|-------------|-------------|
-|  Character  |  	MorseCode |
-|-------------|-------------|
-|    A    	  |      .-     |
-|-------------|-------------|
-|     B	      |     -...    |
-|-------------|-------------|
-|     C       |    -.-.     |
-|-------------|-------------|
-|    ...      |	   ...      |
-|-------------|-------------|
+![image](https://github.com/user-attachments/assets/eced2d14-e838-471f-82cb-7b97fa6d0c13)
+
 
 # Usage
 1. Encryption:
